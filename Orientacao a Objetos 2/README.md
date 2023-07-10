@@ -25,3 +25,13 @@ Numericos "__add__", "__sub__", "__mul__", "__mod__"
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 -Classes Abstratas, importação do abc e dele importar a colletion "MutableSequence" e importação do complex de numbers
+
+------------------------------------
+---Log aula 06 "Herança Multipla"---
+------------------------------------
+
+-Ordem de execução de herança multipla = esquerda para direita priorizando herança
+-MRO
+-Good Head = Se houver outra classe que herda da mesma classe ela fica na frente da execução
+
+-Mixins = Compartilhamento de comportamento, são classes herdadas que não precisam ser instanciadas e contém preocupações comuns a diversas classes.
